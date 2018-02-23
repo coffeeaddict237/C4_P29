@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">C4_P29</string>
+    <string name="Spanish">Spanish</string>
+    <string name="French">French</string>
+    <string name="Italian">Italian</string>
+    <string name="Portuguese">Portuguese</string>
+    <string name="German">German</string>
+
+    <string name="Spn">Hola Mundo</string>
+    <string name="Fr">Bonjour Monde</string>
+    <string name="It">Ciao Mondo</string>
+    <string name="Prt">Olá Mundo</string>
+    <string name="Gr">Hallo Welt</string>
+</resources>
